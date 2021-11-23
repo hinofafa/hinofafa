@@ -1,7 +1,8 @@
 ### Hi there this is Hinova 👋
-🌱 I’m currently learning about Physics Informed Neural Network, Fourier Neural Operator and Nvidia Modulus
+🌱 I’m currently learning about Physics Informed Neural Network, Fourier Neural Operator and Nvidia Modulus (Nov/2021)
 
-[![Hinova's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinofafa)](https://github.com/anuraghazra/github-readme-stats)
+[![Hinova's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinofafa)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+
 
 
 <!--
