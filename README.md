@@ -1,5 +1,11 @@
 ### Hi there this is Hinova 👋
-🌱 I’m currently learning about Physics Informed Neural Network, Fourier Neural Operator and Nvidia Modulus (Nov/2021)
+
+🔭 I’m currently working on Deep Learning (Knowledge Distillation) NLP areas
+
+🌱 I’m currently learning about Physics Informed Neural Network, Neural Operator and Nvidia Modulus (Nov/2021)
+
+<h4 align='center'> Solve Navier-Stokes equations (Millennium Prize Problems) using [Neural Operator](https://arxiv.org/abs/2111.03794) </h4>
+<img src="art/pino-re500.gif" width="960" height="540" align='center'/>
 
 [![Hinova's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinofafa)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
 
