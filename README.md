@@ -5,7 +5,7 @@
 🌱 I’m currently learning about Physics Informed Neural Network, Neural Operator and Nvidia Modulus (Nov/2021)
 
 <h4 align='center'> Solve Navier-Stokes equations (Millennium Prize Problems) using [Neural Operator](https://arxiv.org/abs/2111.03794) </h4>
-<img src="/pino-re500.gif" width="570" height="405" align='center'/>
+<img src="/pino-re500.gif" width="960" height="405" align='center'/>
 
 
 ### Contribution
