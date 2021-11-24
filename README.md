@@ -1,4 +1,4 @@
-### Hi there this is Hinova 👋
+### Hi there, this is Hinova 👋
 
 🔭 I’m currently working on Deep Learning (Knowledge Distillation) NLP areas
 
@@ -8,7 +8,7 @@
 <img src="/pino-re500.gif" width="960" height="405" align='center'/>
 
 
-### Contribution
+### Metrics
 [![Hinova's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinofafa)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
 
 
