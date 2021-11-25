@@ -1,7 +1,7 @@
 ### Hi there, this is Hinova 👋
 
-🔭 I’m currently working on Deep Learning (Knowledge Distillation) NLP areas
-
+🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
+🤔 I’m interested in Bayesian Inference, Model Explanation and Stochastic Simulation
 🌱 I’m currently learning about Physics Informed Neural Network, Neural Operator and Nvidia Modulus (Nov/2021)
 
 <p>
