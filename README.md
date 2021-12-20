@@ -2,7 +2,8 @@
 - ✨ I'm an AI researcher
 - 🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
 - 🤔 I’m interested in Bayesian Inference, Stochastic Simulation and Model Explanation
-- 🌱 I’m currently learning about Physics Informed Neural Network, Neural Operator and Nvidia Modulus (Nov/2021)
+- 🌱 I’m currently learning about Fourier Neural Operator (Dec/2021)
+- 🎅 Wish you all Merry Xmas in 2021
 
 <p>
 <h4 align='center'> <a href="https://blogs.nvidia.com/blog/2021/11/16/ai-science-climate-change/?ncid=so-nvsh-811699#cid=hpc06_so-nvsh_en-us">Digital Twin Earth Predicts Extreme Weather Globally</a></h4>
