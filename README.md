@@ -6,7 +6,7 @@
 - 🎅 Wish you all Merry Xmas in 2021
 
 <p>
-<h4 align='center'> <a href="https://medium.com/@hintkit/neural-operator-ai-has-breached-a-critical-puzzle-for-simulating-our-world-2c4bb666d71">Neural Operator : AI has breached a critical puzzle for simulating our world in super resolution</a></h4>
+<h4 align='center'> <a href="https://medium.com/@hintkit/neural-operator-ai-has-breached-a-critical-puzzle-for-simulating-our-world-2c4bb666d71">Neural Operator : AI has breached a critical puzzle for simulating our world in super resolution (Medium Blog)</a></h4>
 <img src="/ezgif.com-gif-maker.gif" width='1200px'/>
 
 Climate change is arguably the greatest threat facing humanity today. Accurately predicting climate change is critical to plan for its disastrous impacts well in advance and to adapt to sea level rise, ecosystem shifts, and food and water security needs. The [Fourier Neural Operator (FNO)](https://github.com/hinofafa/fourier_neural_operator) learns complex physical systems accurately and efficiently. Here we see the FNO emulate a high-resolution Earth dataset, ERA5, and predict the behavior of extreme weather events across the globe days in advance in just 0.25 seconds on NVIDIA GPUs. At 100,000 times faster than traditional numerical weather models, this is a significant step towards building digital twin Earth.
