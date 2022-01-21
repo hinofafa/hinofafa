@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
 - 🤔 I’m interested in Bayesian Inference, Numerical Simulation and XAI
 - 🌱 I’m currently learning about Neural Operator (Dec/2021)
-- 🎆 Happy New Year 2022
 
 <p>
 <h4 align='center'> <a href="https://medium.com/@hintkit/neural-operator-ai-has-breached-a-critical-puzzle-for-simulating-our-world-2c4bb666d71">Neural Operator : AI has breached a critical puzzle for simulating our world in super resolution (Medium Blog)</a></h4>
