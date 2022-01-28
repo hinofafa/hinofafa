@@ -1,8 +1,8 @@
 ### Hi there, this is Hinova 👨‍🔬
 - ✨ I'm an AI researcher
-- 🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
-- 🤔 I’m interested in Bayesian Inference, Numerical Simulation and XAI
-- 🌱 I’m currently learning about Neural Operator (Dec/2021)
+- 🔭 I’m currently working on Data Augmentation, mainly in NLP areas
+- 🤔 I’m interested in physics Simulation
+- 🌱 I’m currently learning about Natural Language Generation (Feb/2022)
 
 <p>
 <h4 align='center'> <a href="https://blogs.nvidia.com/blog/2021/11/16/ai-science-climate-change/?ncid=so-nvsh-811699#cid=hpc06_so-nvsh_en-us">Neural Operator : AI has breached a critical puzzle for simulating our world in super resolution (Nvidia Blog)</a></h4>
