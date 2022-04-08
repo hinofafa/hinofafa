@@ -1,7 +1,7 @@
 ### Hi there, this is Hinova 👨‍🔬
-- ✨ I'm an AI researcher
+- ✨ I'm a researcher
 - 🔭 I’m currently working on Active Learning, mainly in NLP areas
-- 🤔 I’m interested in Simulation
+- 🤔 I’m interested in Numerical Simulation
 - 🌱 I’m currently learning about Social Network Modelling (Apr/2022)
 
 <p>
