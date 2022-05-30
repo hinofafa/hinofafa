@@ -1,8 +1,8 @@
 ### Hi there, this is Hinova 👨‍🔬
 - ✨ I'm a researcher
-- 🔭 I’m currently working on Active Learning, mainly in NLP areas
-- 🤔 I’m interested in Numerical Simulation
-- 🌱 I’m currently learning about Social Network Modelling (Apr/2022)
+- 🔭 I’m currently working on Active Learning & Target Sentiment Analysis, mainly in NLP areas
+- 🤔 I’m interested in Bayesian Analysis
+- 🌱 I’m currently learning about Bayesian Neural Network (Jun/2022)
 
 <p>
 <h4 align='center'> <a href="https://blogs.nvidia.com/blog/2021/11/16/ai-science-climate-change/?ncid=so-nvsh-811699#cid=hpc06_so-nvsh_en-us">Neural Operator : AI has breached a critical puzzle for simulating our world in super resolution (Nvidia Blog)</a></h4>
