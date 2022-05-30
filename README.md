@@ -1,4 +1,4 @@
-### Hi there, this is Hinova 👨‍🔬
+### Hi there, this is Hinova
 - ✨ I'm a researcher
 - 🔭 I’m currently working on Active Learning & Target Sentiment Analysis, mainly in NLP areas
 - 🤔 I’m interested in Bayesian Analysis
