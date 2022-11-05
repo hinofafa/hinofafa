@@ -2,7 +2,7 @@
 - ✨ I'm a applied scientist
 - 🔭 I’m currently working on Knowledge Distillation text classfication, mainly in NLP areas
 - 🤔 I’m interested in Bayesian Analysis and Physics Simulation
-- 🌱 I’m currently learning about Multimodal Representation Learning (Nov/2022)
+- 🌱 I’m currently learning about Neural Search (Nov/2022)
 
 <p>
 <h4 align='center'> <a href="https://arxiv.org/pdf/2208.05419.pdf">FourCastNet: accelerating global high-resolution weather forecasting using adaptive Fourier Neural Operators</a></h4>
