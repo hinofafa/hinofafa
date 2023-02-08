@@ -2,7 +2,7 @@
 - ✨ I'm a applied scientist
 - 🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
 - 🤔 I’m interested in Bayesian Analysis and Physics Simulation
-- 🌱 I’m currently learning about Context Learning (Feb/2023)
+- 🌱 I’m currently learning about In-Context Learning (Feb/2023)
 
 <p>
 <h4 align='center'> <a href="https://arxiv.org/pdf/2208.05419.pdf">FourCastNet: accelerating global high-resolution weather forecasting using adaptive Fourier Neural Operators</a></h4>
