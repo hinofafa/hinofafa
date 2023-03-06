@@ -1,7 +1,7 @@
 ### Hi there, this is Hinova
 - ✨ I'm a applied scientist
-- 🔭 I’m currently working on Knowledge Distillation, mainly in NLP areas
-- 🤔 I’m interested in Bayesian Analysis and Physics Simulation
+- 🔭 I’m currently working on Prompt Engineering, mainly in NLP areas
+- 🤔 I’m interested in Deep Learning, Bayesian Analysis and Physics Simulation
 - 🌱 I’m currently learning about In-Context Learning (Feb/2023)
 
 <p>
