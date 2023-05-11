@@ -1,8 +1,8 @@
 ### Hi there, this is Hinova
 - ✨ I'm a applied scientist
-- 🔭 I’m currently working on Prompt Engineering, mainly in NLP areas
+- 🔭 I’m currently working on Transformer RL, mainly in NLP areas
 - 🤔 I’m interested in Deep Learning, Bayesian Analysis and Physics Simulation
-- 🌱 I’m currently learning about In-Context Learning (Feb/2023)
+- 🌱 I’m currently learning about RLHF (May/2023)
 
 <p>
 <h4 align='center'> <a href="https://arxiv.org/pdf/2208.05419.pdf">FourCastNet: accelerating global high-resolution weather forecasting using adaptive Fourier Neural Operators</a></h4>
