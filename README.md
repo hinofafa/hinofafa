@@ -2,7 +2,7 @@
 - ✨ I'm a ML Engineer
 - 🔭 I’m currently working on Transformer RL, mainly in NLP areas
 - 🤔 I’m interested in Deep Learning, Bayesian Analysis and Physics Simulation
-- 🌱 I’m currently learning about RLHF (May/2023)
+- 🌱 I’m currently learning about ICL (Sept/2023)
 
 </p>
 
