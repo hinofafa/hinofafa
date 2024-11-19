@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I'm a Machine Learning Engineer<br>🔭 I’m currently working on topic modelling, mainly in NLP areas<br>🤔 I’m interested in Deep Learning and Simulation in Statistics<br>🌱 I’m currently learning about Bayesian Agent based models (Nov/2024)
+✨ I'm a Machine Learning Engineer<br>🔭 I’m currently working on topic modelling, mainly in NLP areas<br>🤔 I’m interested in Deep Learning and Simulation in Statistics<br>🌱 I’m currently learning about Opinion Dynamics and Agent based simulation (Nov/2024)
 
 
 ## 🌐 Socials:
