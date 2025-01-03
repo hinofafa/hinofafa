@@ -1,7 +1,7 @@
 # 💫 About Me:
 ✨ I'm a Machine Learning Engineer<br>🔭 I’m currently working on topic modelling, mainly in NLP areas<br>🤔 I’m interested in Deep Learning and Simulation in Statistics<br>🌱 I’m currently learning about Graph RAG and Agent based simulation (Jan/2025)
 
-Happy New Year 2025 🎊
+Happy New Year 2025 🎊 !!
 
 
 ## 🌐 Socials:
